@@ -1,0 +1,65 @@
+# Unreal Engine generated files and folders
+.vs/
+.vscode/
+.idea/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Saved/
+
+# Visual Studio and IDE specific files
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.sln
+*.suo
+*.user
+*.config
+*.DotSettings.user
+*.code-workspace
+
+# Compiled files
+*.obj
+*.o
+*.lo
+*.slo
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+*.pdb
+*.exp
+*.ilk
+*.manifest
+*.map
+*.pak
+
+# Precompiled Headers and Modules
+*.gch
+*.pch
+*.mod
+
+# Logs and Crash Reports
+*.log
+*.dmp
+*.crash
+
+# Source Control specific files (if not managed by LFS)
+# If using Git LFS for large assets, ensure these are tracked by LFS
+# Otherwise, you might want to ignore them if they are very large and not intended for version control
+# e.g., if you have a separate asset management system
+# *.uasset
+# *.umap
+
+# Other common temporary files
+*.~
+*.bak
+*.tmp
+*.swp
+.DS_Store
